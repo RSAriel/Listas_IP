@@ -1,0 +1,1 @@
+lugares = int(input())
