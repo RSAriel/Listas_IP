@@ -1,3 +1,5 @@
-print("Meu nome é Ariel ", end = "")
-for i in range (1):
-    print("i", sep = "-")
+n_sorteado_binario = str(input())
+n_sorteado = str(int(n_sorteado_binario, 2))
+
+print(n_sorteado)
+print (type(n_sorteado))

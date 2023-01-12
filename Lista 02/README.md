@@ -1,0 +1,1 @@
+10- Porque na questão 10 minha primeira submissão estava dando EOF e quando tirei o palavra_invertida da linha 3 e coloquei onde ele está agora funcionou
